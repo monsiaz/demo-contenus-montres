@@ -2,6 +2,16 @@
 
 Ce projet est une démo à titre démonstratif et bêta visant à créer un guide complet et détaillé sur les montres de luxe en utilisant des techniques de scraping et de génération de contenu via l'IA. Le but est de produire des articles SEO-friendly, structurés et uniques pour chaque modèle de montre.  Il faudra identifier le meilleur modèle pour la génération de contenu et monitorer la consommation de tokens. Le provider de données pour cette démonstration est https://watchbase.com/. 
 
+## Liens vers les pages
+
+- [Rolex Day-Date 36 Yellow Gold Diamond Champagne President](https://monsiaz.github.io/demo-contenus-montres/output_pages/Rolex_Day-Date_36_Yellow_Gold___Diamond___Champagne___President.html)
+- [Panerai Luminor 1950 Tourbillon GMT Goldtech](https://monsiaz.github.io/demo-contenus-montres/output_pages/Panerai_Luminor_1950_Tourbillon_GMT_Goldtech.html)
+- [Cartier Crash Skeleton Pink Gold](https://monsiaz.github.io/demo-contenus-montres/output_pages/Cartier_Crash_Skeleton_Pink_Gold.html)
+- [Bulgari Octo Finissimo Tourbillon Platinum](https://monsiaz.github.io/demo-contenus-montres/output_pages/Bulgari_Octo_Finissimo_Tourbillon_Platinum.html)
+- [Audemars Piguet Royal Oak Extra-Thin Stainless Steel Silver](https://monsiaz.github.io/demo-contenus-montres/output_pages/Audemars_Piguet_Royal_Oak_Extra-Thin_Stainless_Steel___Silver.html)
+- [A. Lange & Söhne Zeitwerk White Gold Black](https://monsiaz.github.io/demo-contenus-montres/output_pages/A._Lange_&_Söhne_Zeitwerk_White_Gold___Black.html)
+
+
 ## Fonctionnalités
 
 - **Scraping de Données** : Extraction des informations détaillées sur les montres à partir de pages web spécifiques.
