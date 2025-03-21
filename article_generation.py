@@ -84,7 +84,7 @@ tout en gardant au minimum des sections <h2>) et tu n'est pas scolaire - tu reno
 8) Conclusion : pourquoi ce modèle est emblématique (éviter un titre bateau comme "conclusion" soit original)
 
 Consignes de style :
-- Riche, immersif, informatif, passionné d'horlogerie et une approche original
+- Riche, immersif, informatif, passionné d'horlogerie et une approche originale
 - Registre soutenu mais accessible,
 - Chaque titre (H2/H3/H4) doit être pertinent et refléter le contenu de la section, sans majuscules sauf pour les noms propres et la première lettre (exemple à suivre : <h2>L'héritage de la Zeitwerk dans le panorama du luxe et chez les collectionneurs</h2>
 )
