@@ -1,0 +1,299 @@
+{
+    "watches": [
+        {
+            "brand": "A. Lange & Söhne",
+            "family": "Zeitwerk",
+            "reference": "140.029",
+            "name": "Zeitwerk White Gold / Black",
+            "movement": {
+                "caliber": "A. Lange & Söhne caliber L043.1",
+                "details": "Jumping Hours, Jumping Minutes, Small Seconds | Power Reserve Indicator, Constant Force Mechanism"
+            },
+            "produced": "2009",
+            "limited": "No",
+            "case": {
+                "material": "White Gold",
+                "glass": "Sapphire",
+                "back": "Open",
+                "diameter": "41.90 mm",
+                "height": "12.60 mm",
+                "lug_width": "20.00 mm"
+            },
+            "dial": {
+                "color": "Black",
+                "indexes": "Arabic Numerals"
+            },
+            "description": "The Zeitwerk ref. 140.029 was introduced in 2009. It features a black dial with white discs for the hour and minute indicators. The case is white gold.",
+            "image_url": "https://cdn.watchbase.com/watch/lg/a-lange-sohne/zeitwerk/140-029-54.jpg",
+            "prices": {
+                "labels": [
+                    "",
+                    "2020-03-01",
+                    ""
+                ],
+                "datasets": [
+                    {
+                        "label": "New",
+                        "fillColor": "rgba(88, 88, 88, 0.2)",
+                        "strokeColor": "rgba(88, 88, 88, 1)",
+                        "pointColor": "rgba(88, 88, 88, 1)",
+                        "pointStrokeColor": "#fff",
+                        "pointHighlightFill": "#fff",
+                        "pointHighlightStroke": "rgba(88, 88, 88, 1)",
+                        "data": [
+                            null,
+                            "76500",
+                            null
+                        ]
+                    }
+                ]
+            },
+            "local_image_path": "/Users/simonazoulay/guide-montres/images/a.-lange-and-söhne_140.029.jpg"
+        },
+        {
+            "brand": "Audemars Piguet",
+            "family": "Royal Oak",
+            "reference": "15202ST.OO.0944ST.01 (aka: Jumbo)",
+            "name": "Royal Oak Extra-Thin Stainless Steel / Silver",
+            "movement": {
+                "caliber": "Audemars Piguet caliber AP 2121",
+                "details": "Hours, Minutes | Date"
+            },
+            "produced": "2012",
+            "limited": "No",
+            "case": {
+                "material": "Stainless Steel",
+                "glass": "Sapphire",
+                "back": "Open",
+                "diameter": "39.00 mm",
+                "height": "8.10 mm"
+            },
+            "dial": {
+                "color": "Silver",
+                "indexes": "Stick / Dot"
+            },
+            "description": "The Royal Oak 'Extra-Thin' is Audemars Piguet modern Jumbo - the design closely following the original lines as introduced with the 1972 5402. The case measures 39mm across and houses the tried & tested caliber 2121 movement.Reference 15202ST.OO.0944ST.01 has a stainless steel case with matching bracelet and a silver / white 'Grande Tapisserie' dial.",
+            "image_url": "https://cdn.watchbase.com/watch/lg/audemars-piguet/royal-oak/15202st-oo-0944st-01-c.png",
+            "prices": {
+                "labels": [
+                    "2006-06-06",
+                    "2009-06-06",
+                    "2011-06-06",
+                    "2016-02-01"
+                ],
+                "datasets": [
+                    {
+                        "label": "New",
+                        "fillColor": "rgba(88, 88, 88, 0.2)",
+                        "strokeColor": "rgba(88, 88, 88, 1)",
+                        "pointColor": "rgba(88, 88, 88, 1)",
+                        "pointStrokeColor": "#fff",
+                        "pointHighlightFill": "#fff",
+                        "pointHighlightStroke": "rgba(88, 88, 88, 1)",
+                        "data": [
+                            "12600",
+                            "13900",
+                            "14500",
+                            "22340"
+                        ]
+                    }
+                ]
+            },
+            "local_image_path": "/Users/simonazoulay/guide-montres/images/audemars-piguet_15202st.oo.0944st.01-(aka:-jumbo).png"
+        },
+        {
+            "brand": "Bulgari",
+            "family": "Octo",
+            "reference": "102138 (aka: BGO40BPLTBXT)",
+            "name": "Octo Finissimo Tourbillon Platinum",
+            "movement": {
+                "caliber": "Bulgari caliber BVL 268",
+                "details": "Hours, Minutes, Seconds | Date"
+            },
+            "produced": "",
+            "limited": "No",
+            "case": {
+                "material": "Platinum",
+                "glass": "Sapphire",
+                "back": "Open",
+                "diameter": "40.00 mm",
+                "height": "5.00 mm"
+            },
+            "dial": {
+                "color": "Black",
+                "indexes": "Mixed"
+            },
+            "description": "The Bvlgari Octo Finissimo Tourbillon 102138 BGO40BPLTBXT features a distinct eight-sided case, inspired by an original design by the late Gerald Genta. Its many sides, facets and alternating finishes give the Octo a luxurious and sculpted feel. This watch is powered by an extra thin mechanical 'manufacture' movement of 1.95mm thickness with manual winding and flying tourbillon.",
+            "image_url": "https://cdn.watchbase.com/watch/lg/bulgari/octo/102138-db.png",
+            "prices": {
+                "labels": [
+                    "2015-02-25",
+                    "2017-06-10",
+                    "2023-01-09"
+                ],
+                "datasets": [
+                    {
+                        "label": "New",
+                        "fillColor": "rgba(88, 88, 88, 0.2)",
+                        "strokeColor": "rgba(88, 88, 88, 1)",
+                        "pointColor": "rgba(88, 88, 88, 1)",
+                        "pointStrokeColor": "#fff",
+                        "pointHighlightFill": "#fff",
+                        "pointHighlightStroke": "rgba(88, 88, 88, 1)",
+                        "data": [
+                            "75000",
+                            "141000",
+                            "165000"
+                        ]
+                    }
+                ]
+            },
+            "local_image_path": "/Users/simonazoulay/guide-montres/images/bulgari_102138-(aka:-bgo40bpltbxt).png"
+        },
+        {
+            "brand": "Cartier",
+            "family": "Crash de Cartier",
+            "reference": "WHCH0006",
+            "name": "Crash Skeleton Pink Gold",
+            "movement": {
+                "caliber": "Cartier caliber 9618 MC",
+                "details": "Hours, Minutes | Skeleton"
+            },
+            "produced": "2016 - 2016",
+            "limited": "Yes, 67 units",
+            "case": {
+                "material": "Pink Gold",
+                "glass": "Mineral",
+                "back": "Open",
+                "diameter": "28.15 mm",
+                "height": "9.62 mm"
+            },
+            "dial": {
+                "color": "Skeleton",
+                "indexes": "Roman Numerals"
+            },
+            "description": "The Cartier Crash Skeleton was introduced in 2014 as a contemporary and highly limited take on the iconic Crash watch - one the brand's most sought-after classics. Limited to just 67 pieces, the sculpted case was made of platinum, housing an equally sculpted movement whose bridges were hollowed out to form the brand's signature Roman numerals. The size of the case is approximately 28.15*45.32 mm.A pink gold Crash Skeleton, also limited to 67 pieces, was introduced in 2016.",
+            "image_url": "https://cdn.watchbase.com/watch/lg/cartier/santos-de-cartier/whch0006-30.png",
+            "prices": {
+                "labels": [
+                    "",
+                    "2016-10-25",
+                    ""
+                ],
+                "datasets": [
+                    {
+                        "label": "New",
+                        "fillColor": "rgba(88, 88, 88, 0.2)",
+                        "strokeColor": "rgba(88, 88, 88, 1)",
+                        "pointColor": "rgba(88, 88, 88, 1)",
+                        "pointStrokeColor": "#fff",
+                        "pointHighlightFill": "#fff",
+                        "pointHighlightStroke": "rgba(88, 88, 88, 1)",
+                        "data": [
+                            null,
+                            "65000",
+                            null
+                        ]
+                    }
+                ]
+            },
+            "local_image_path": "/Users/simonazoulay/guide-montres/images/cartier_whch0006.png"
+        },
+        {
+            "brand": "Panerai",
+            "family": "Luminor 1950",
+            "reference": "PAM01060",
+            "name": "Luminor 1950 Tourbillon GMT Goldtech",
+            "movement": {
+                "caliber": "Panerai caliber P.2005/T",
+                "details": "Hours, Minutes, Additional 24 Hour Hand (adjustable), Day / Night Indication, Small Seconds | Power Reserve Indicator, Tourbillon Escapement"
+            },
+            "produced": "2020",
+            "limited": "No",
+            "case": {
+                "material": "Goldtech",
+                "glass": "Sapphire",
+                "back": "Open",
+                "diameter": "47.00 mm",
+                "lug_width": "26.00 mm"
+            },
+            "dial": {
+                "color": "Skeleton",
+                "indexes": "Mixed"
+            },
+            "description": "The Panerai Luminor reference PAM01060 has a 'Goldtech' case of 47mm, which houses a skeletonized movement with tourbillon finished in blue.",
+            "image_url": "https://cdn.watchbase.com/watch/lg/panerai/luminor-1950/pam01060-97.jpg",
+            "prices": {
+                "labels": [
+                    "2021-07-13",
+                    "2023-03-02",
+                    "2024-12-10"
+                ],
+                "datasets": [
+                    {
+                        "label": "New",
+                        "fillColor": "rgba(88, 88, 88, 0.2)",
+                        "strokeColor": "rgba(88, 88, 88, 1)",
+                        "pointColor": "rgba(88, 88, 88, 1)",
+                        "pointStrokeColor": "#fff",
+                        "pointHighlightFill": "#fff",
+                        "pointHighlightStroke": "rgba(88, 88, 88, 1)",
+                        "data": [
+                            "166000",
+                            "180000",
+                            "189000"
+                        ]
+                    }
+                ]
+            },
+            "local_image_path": "/Users/simonazoulay/guide-montres/images/panerai_pam01060.jpg"
+        },
+        {
+            "brand": "Rolex",
+            "family": "Day-Date 36",
+            "reference": "128348RBR-0026 (aka: M128348RBR-0026)",
+            "name": "Day-Date 36 Yellow Gold / Diamond / Champagne / President",
+            "movement": {
+                "caliber": "Rolex caliber 3255",
+                "details": "Hours, Minutes, Seconds | Date, Day | Chronometer"
+            },
+            "produced": "2019",
+            "limited": "No",
+            "case": {
+                "material": "Yellow Gold",
+                "glass": "Sapphire",
+                "back": "Closed",
+                "diameter": "36.00 mm",
+                "lug_width": "20.00 mm"
+            },
+            "dial": {
+                "color": "Champagne",
+                "indexes": "Stick / Dot"
+            },
+            "description": "An updated generation of the Day-Date in 36mm size was introduced at BaselWorld 2019. The caliber 3155 is replaced by the 3255, a movement that debuted in the Day-Date 40.Reference 128348RBR has a yellow gold case and diamond-set bezel.",
+            "image_url": "https://cdn.watchbase.com/watch/lg/rolex/day-date/128348rbr-0026-f7.jpg",
+            "prices": {
+                "labels": [
+                    "2019-03-30",
+                    "2024-01-05"
+                ],
+                "datasets": [
+                    {
+                        "label": "New",
+                        "fillColor": "rgba(88, 88, 88, 0.2)",
+                        "strokeColor": "rgba(88, 88, 88, 1)",
+                        "pointColor": "rgba(88, 88, 88, 1)",
+                        "pointStrokeColor": "#fff",
+                        "pointHighlightFill": "#fff",
+                        "pointHighlightStroke": "rgba(88, 88, 88, 1)",
+                        "data": [
+                            "41800",
+                            "518100"
+                        ]
+                    }
+                ]
+            },
+            "local_image_path": "/Users/simonazoulay/guide-montres/images/rolex_128348rbr-0026-(aka:-m128348rbr-0026).jpg"
+        }
+    ]
+}
