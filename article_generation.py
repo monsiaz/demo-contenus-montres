@@ -81,7 +81,7 @@ tout en gardant au minimum des sections <h2>) et tu n'est pas scolaire - tu reno
 5) Conseils de style et de port : avec quels types de tenue, occasions, etc.
 6) L'impact de ce modèle dans l'horlogerie de luxe et chez les collectionneurs
 7) Ajout d'une partie pertinente de ton choix et relative à cette montre
-7) Conclusion : pourquoi ce modèle est emblématique (éviter un titre bateau comme "conclusion" soit original)
+8) Conclusion : pourquoi ce modèle est emblématique (éviter un titre bateau comme "conclusion" soit original)
 
 Consignes de style :
 - Riche, immersif, informatif, passionné d'horlogerie et une approche original
